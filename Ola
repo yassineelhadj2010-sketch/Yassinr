@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PLS DONATE Server</title>
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+        iframe { width: 100%; height: 100%; border: none; }
+    </style>
+</head>
+<body>
+    <iframe src="https://www.roblox.com/share?code=89f3904590d18d43b0e663f7ee4b2e72&type=Server"></iframe>
+</body>
+</html>
